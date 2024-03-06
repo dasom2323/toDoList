@@ -5,9 +5,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 The Goal List App is a mobile application built using JSX with React Native. It provides users with a simple interface to add goals as a list, and upon clicking, the goal is removed from the list. This app aims to help users organize their goals efficiently and track their progress effectively.
 
 ## Features
-Goal Management: Users can add goals to the list.
-Interactive Interface: Goals are displayed as a list, and users can click on each goal to delete it from the list.
-React Native Framework: The app is developed using JSX with React Native, ensuring cross-platform compatibility and a smooth user experience.
+- Goal Management: Users can add goals to the list.
+- Interactive Interface: Goals are displayed as a list, and users can click on each goal to delete it from the list.
+- React Native Framework: The app is developed using JSX with React Native, ensuring cross-platform compatibility and a smooth user experience.
 
 ## Usage 
 * Step 1: Start the Metro Server
