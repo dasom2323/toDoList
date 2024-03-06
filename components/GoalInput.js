@@ -24,7 +24,7 @@ function GoalIput(props) {
           onChangeText={goalInputHandler}
           value={enteredGoalText}
         />
-        <View> style={styles.buttonContainer}
+        <View style={styles.buttonContainer}>
           <View style={styles.button}>
             <Button title="Cancel" onPress={props.onCancel}
             color="#f31282"/>
@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   image: {
     width: 100,
     height: 100,
-    margine: 20,
+    margin: 20,
   },
   textInput: {
     borderWidth: 1,
